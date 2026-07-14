@@ -1,0 +1,29 @@
+version: 1.0.0
+artifact: PB-01
+license: CC-BY-4.0
+primary_audience:
+  role: ""
+  decision_context: ""
+  key_question: ""
+positioning_hypothesis:
+  capability: ""
+  audience: ""
+  problem: ""
+  evidence_type: ""
+evidence:
+  - claim: ""
+    artifact: ""
+    disclosure: public # public | redact | prohibited
+primary_cta:
+  action: ""
+  consequence: ""
+success_metrics:
+  - ""
+non_goals:
+  - ""
+privacy_boundaries:
+  - ""
+assumptions_to_validate:
+  - ""
+approved_by: ""
+approved_at: ""

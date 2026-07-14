@@ -1,0 +1,24 @@
+version: 1.0.0
+related_chapters: [5, 17]
+license: CC-BY-4.0
+task: ""
+data:
+  - name: ""
+    owner: ""
+    classification: public # public | internal | sensitive | prohibited
+    allowed_use: ""
+    retention: ""
+actions:
+  - type: read # read | write | send | publish | delete
+    resource_scope: ""
+    identity: ""
+    duration: ""
+    human_confirmation: true
+    rollback: ""
+third_parties:
+  - name: ""
+    purpose: ""
+    reviewed: false
+version_assumptions: "以当前官方版本为准"
+cost_limit: ""
+revocation_owner: ""

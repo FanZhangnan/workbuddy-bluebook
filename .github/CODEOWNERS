@@ -1,0 +1,4 @@
+# Replace with the repository's maintainer team when published.
+/docs/ @maintainers
+/scripts/ @maintainers
+/.github/ @maintainers

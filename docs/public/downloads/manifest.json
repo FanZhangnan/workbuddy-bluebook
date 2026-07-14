@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-07-14",
+  "workbuddyVersion": "以当前官方版本为准",
+  "license": "CC-BY-4.0",
+  "items": [
+    {"id":"task-brief","version":"1.0.0","chapters":[1,3],"file":"templates/v1/task-brief.md","license":"CC-BY-4.0","verified":"2026-07-14"},
+    {"id":"context-package","version":"1.0.0","chapters":[2],"file":"templates/v1/context-package.md","license":"CC-BY-4.0","verified":"2026-07-14"},
+    {"id":"research-ledger","version":"1.0.0","chapters":[13],"file":"templates/v1/research-ledger.csv","license":"CC-BY-4.0","verified":"2026-07-14"},
+    {"id":"acceptance-checklist","version":"1.0.0","chapters":[4],"file":"templates/v1/acceptance-checklist.md","license":"CC-BY-4.0","verified":"2026-07-14"},
+    {"id":"permission-matrix","version":"1.0.0","chapters":[5,17],"file":"templates/v1/permission-matrix.yaml","license":"CC-BY-4.0","verified":"2026-07-14"},
+    {"id":"document-review","version":"1.0.0","chapters":[3,4],"file":"templates/v1/document-review.md","license":"CC-BY-4.0","verified":"2026-07-14"},
+    {"id":"personal-brand-brief","version":"1.0.0","chapters":[7],"file":"templates/v1/personal-brand-brief.yaml","license":"CC-BY-4.0","verified":"2026-07-14"},
+    {"id":"content-inventory","version":"1.0.0","chapters":[14],"file":"templates/v1/content-inventory.csv","license":"CC-BY-4.0","verified":"2026-07-14"},
+    {"id":"ui-acceptance","version":"1.0.0","chapters":[15,16],"file":"templates/v1/ui-acceptance.md","license":"CC-BY-4.0","verified":"2026-07-14"}
+  ]
+}

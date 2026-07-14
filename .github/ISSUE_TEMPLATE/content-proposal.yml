@@ -1,0 +1,28 @@
+name: Content proposal
+description: Propose a formal chapter or maintained template
+title: "[Content]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Reader problem and audience
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Verifiable learning outcome
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Official evidence and version boundary
+    validations:
+      required: true
+  - type: textarea
+    id: safety
+    attributes:
+      label: Privacy, permissions, cost, and human confirmation
+    validations:
+      required: true

@@ -1,0 +1,27 @@
+name: Community case
+description: Submit a de-identified, reproducible use case
+title: "[Case]: "
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Role, industry, scenario, and outcome
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Input, prompt, result, acceptance, and failure evidence
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent and safety
+      options:
+        - label: Inputs are authorized and de-identified.
+          required: true
+        - label: No secrets, private screenshots, or personal data are included.
+          required: true
+        - label: Version and permission limits are disclosed.
+          required: true

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# 上线时由构建环境的 SITE_URL 生成 sitemap；本地预览不声明生产地址。
